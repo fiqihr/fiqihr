@@ -1,4 +1,4 @@
-<img src="github-header-image.png" alt="GitHub Banner" width="100%" />
+<img src="github-header.png" alt="GitHub Banner" width="100%" />
 
 # Hi there! I'm Fiqih, a creative mind in the world of software development 💡
 
