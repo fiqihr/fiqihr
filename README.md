@@ -1,4 +1,4 @@
-<!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
+<img src="banner_ungu.png" alt="GitHub Banner" width="100%" />
 
 # Hi there! I'm Fiqih, a creative mind in the world of software development 💡
 
@@ -41,7 +41,7 @@
 </picture>
 
 <hr>
-<center><h3><i>And then, contact me if you need services for web or mobile software development. 📞<br>
+<h3 align="center"><i>And then, contact me if you need services for web or mobile software development. 📞<br>
 <br>
 <a href="" style="margin-right: 4px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="25">
@@ -49,4 +49,4 @@
 <a href="">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" width="25">
 </a>
-</i></h3></center>
+</i></h3>
