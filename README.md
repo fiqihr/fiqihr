@@ -43,10 +43,10 @@
 <hr>
 <h3 align="center"><i>📞 And then, contact me if you need services for web or mobile software development. <br>
 <br>
-<a href="" style="margin-right: 4px;">
+<a href="https://www.linkedin.com/in/fiqih-ref/" style="margin-right: 4px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="25">
 </a>
-<a href="">
+<a href="mailto:fiqihrefwahajan@gmail.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" width="25">
 </a>
 </i></h3>
